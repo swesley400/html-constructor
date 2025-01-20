@@ -21,7 +21,7 @@ Um construtor visual de HTML que permite criar e editar elementos através de um
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/html-constructor.git
+git clone https://github.com/swesley400/html-constructor.git
 cd html-constructor
 ```
 
